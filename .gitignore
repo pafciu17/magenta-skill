@@ -5,4 +5,5 @@ envname/
 __pycache__
 /.project
 /.pydevproject
+.venv
 skill_sdk.egg-info/
