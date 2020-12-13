@@ -1,15 +1,7 @@
 # Skill team-17-demo - python
 
-## Samples
+### App support cooking
 
-### Hello
+The skill provide app for selecting cooking recipe, and going through it to cooke the meal.
 
-This implementation returns "Hello" greeting to user saying "Hello". 
-
-### Chuck Norris Jokes
-
-This implementation returns a random joke from Chuck Norris jokes database: http://api.icndb.com/jokes/random
-
-### Guess the Number Game
-
-This is a sample implementation of "Guess the Number" game. User says a number and we answer if they got it right or not.
+The skill is collaborating with node based app: https://github.com/pafciu17/magenta-node-app/blob/master/README.md
